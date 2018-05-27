@@ -1,3 +1,4 @@
+//Summer project
 #include <LiquidCrystal.h> 
 // Include the library to use a LCD display
 #define tempSensor 0 // Define the A0 pin as “sensor”
